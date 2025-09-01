@@ -9,8 +9,8 @@ int main()
     cout << y-- << endl;
     cout << x << endl;
     cout << y << endl;
-cout<<endl;
-cout<<endl;
+    cout << endl;
+    cout << endl;
     x = 6, y = 7;
 
     cout << x << endl;
